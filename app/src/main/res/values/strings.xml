@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="t1"> Listado de articulos</string>
+    <string name="t2"> Marca</string>
+    <string name="t3"> Descripcion</string>
+    <string name="t4"> Agregar </string>
+
+    <string name="t7"> Lugares Frecuentes </string>
+    <string name="t5"> Guardar </string>
+    <string name="t6"> Datos de equipo </string>
+</resources>
